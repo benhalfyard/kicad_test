@@ -27,6 +27,17 @@
 		)
 		(uuid "b2f0dc25-2dd3-4286-890e-7e2c5655c626")
 	)
+	(label "final test"
+		(at 116.84 52.07 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f567bffe-85c8-4e03-8102-eeb149e72d62")
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
